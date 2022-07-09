@@ -1,0 +1,13 @@
+.ImageCardDiv {
+  display: flex;
+  flex-direction: column;
+}
+
+.CardThingy {
+  margin: 25px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: space-around;
+  align-items: flex-start;
+}
